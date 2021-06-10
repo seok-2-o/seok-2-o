@@ -1,4 +1,4 @@
-### Hi there 👋
+clean code that works🔥 
 
 <!--
 **seok-2-o/seok-2-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
