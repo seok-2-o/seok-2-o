@@ -1,4 +1,8 @@
-clean code that works🔥 
+안녕하세요. 6년차 웹 개발자 입니다. 
+주로 Java , Spring 기반으로 웹 개발을 진행해 왔으며 좋은 제품을 만들기 위해 노력 하고 있습니다.
+
+읽기 좋은 코드를 작성하는 것에 관심이 많아서 다양한 방법을 통해 노력하고 있습니다.
+클린코드, 지식 공유, 도전을 지향합니다.
 
 <!--
 **seok-2-o/seok-2-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
